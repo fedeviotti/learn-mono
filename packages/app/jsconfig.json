@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@fedeviotti/common/*": ["../common/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
